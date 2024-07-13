@@ -89,6 +89,13 @@ You score for the number of cards in each color remaining in your hand. (Cards p
 | 8 | 13 |
 | 9 | 21 |
 
+### Points counted
+The points awarded for each round are determined by who called *Last Turn* and who had the highest score.
+
+|  | Called had Highest | Not Called had Highest |
+|---|---|---|
+| Called | Color + Sets | Sets |
+| Not Called | Sets | Color |
 
 ---
 
