@@ -7,9 +7,9 @@ TODO: Brief description
 1 Deck of 54 Cards
 - 6 **Colors** with 9 cards each
 - 3 **Types**
-  - 20 Toys (Turns)
-  - 17 Clothes (Cards)
-  - 17 Keepsakes (Discards)
+    - 20 Toys (Turns)
+    - 17 Clothes (Cards)
+    - 17 Keepsakes (Discards)
 
 ## Setup
 
@@ -47,13 +47,17 @@ The points you earn from your score are determined by who called *Last Turn* and
 TODO: Describe actions
 
 ### Discards (Keepsakes)
-2 -> take top card form a discard pile and add to your hand
+2 -> take top card from a discard pile and add to your hand
+
 3 -> choose a discard pile and take any card from it
+
 5 -> take an entire discard pile and add it to your hand
 
 ### Cards (Clothes)
-2 -> take the top card form the deck and add it to your hand
-3 -> take top card form a discard pile and add to your hand
+2 -> take the top card from the deck and add it to your hand
+
+3 -> take top card from a discard pile and add to your hand
+
 5 -> choose an opponent, take a random card from their hand
 
 ### Turn (Toys)
